@@ -3,6 +3,8 @@
 
 *A painting and image manipulation program created using C++, OpenGL, and QT3.*
 
+Copyright 2002 Andrew R. Proper
+
 ---
 
 SplatterBoardManip features drawing tools including point, line, 
